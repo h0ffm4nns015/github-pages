@@ -1,0 +1,44 @@
+body{ 
+    font-family: Arial;
+}
+#copa{
+    margin: 3%;
+    padding: 1px; color: black;
+}
+
+p{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;  
+}
+
+h3{ font-family: Arial;
+    text-align: center;
+}
+
+a{
+    margin: auto;
+}
+
+#pagdois{
+    margin: 3%;
+    padding: 1px; color: black;
+}
+
+#pagtres{
+    margin: 3%;
+    padding: 1px; color: black;
+}
+
+#pagquatro{
+    margin: 4%;
+    padding: 1px; color: black;
+}
+.container{
+    text-align: center;
+}
